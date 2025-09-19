@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "name": "Web Design & Development",
+    "serviceList": [
+      "Website & UI/UX Design",
+      "Frontend Development",
+      "Figma to HTML",
+      "Figma to React/Next.js"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Backend Development",
+    "serviceList": [
+      "Server-side Logic & APIs",
+      "Database Management",
+      "Node.js Development",
+      "Microservices Architecture"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "App Development",
+    "serviceList": [
+      "Mobile App Development",
+      "Cross-Platform Apps",
+      "Native Apps",
+      "App UI/UX & Maintenance"
+    ]
+  },
+   {
+    "id": 13,
+    "name": "AI Solutions",
+    "serviceList": [
+      "AI-Based Resume Screening",
+      "Computer Vision Applications",
+      "Predictive Analytics & Automation",
+      "Chatbots & Virtual Assistants"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "E-commerce Solutions",
+    "serviceList": [
+      "Online Store Development",
+      "Payment Gateway Integration",
+      "Product Catalog Management",
+      "E-commerce UX/UI Design"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "SaaS Product Development",
+    "serviceList": [
+      "Custom SaaS Solutions",
+      "Subscription Management",
+      "Multi-Tenant Architecture",
+      "Cloud Hosting & Scaling"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Software Consulting",
+    "serviceList": [
+      "Technical Strategy Planning",
+      "Code Review & Auditing",
+      "Architecture Design",
+      "Performance Optimization"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Cloud Solutions & DevOps",
+    "serviceList": [
+      "Infrastructure Setup & Management",
+      "CI/CD Pipeline Development",
+      "Docker & Kubernetes Deployment",
+      "Cloud Integration (AWS, Azure, GCP)"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Maintenance & Support",
+    "serviceList": [
+      "Bug Fixing & Troubleshooting",
+      "Performance Monitoring",
+      "Regular Updates & Patches",
+      "24/7 Support Services"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "API Development & Integration",
+    "serviceList": [
+      "REST & GraphQL APIs",
+      "Third-Party API Integration",
+      "API Security & Rate Limiting",
+      "Custom API Solutions"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Data Analytics & BI Tools",
+    "serviceList": [
+      "Dashboard Development",
+      "Data Visualization",
+      "Predictive Analytics",
+      "Business Intelligence Solutions"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Progressive Web Apps (PWA)",
+    "serviceList": [
+      "Offline-First Web Apps",
+      "Fast & Responsive UI",
+      "Push Notification Integration",
+      "Cross-Platform Compatibility"
+    ]
+  }
+ 
+]

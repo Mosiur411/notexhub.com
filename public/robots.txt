@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.notexthub.com
+
+# Sitemaps
+Sitemap: https://www.notexthub.com/sitemap.xml
