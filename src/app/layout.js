@@ -5,14 +5,20 @@ import Navbar from "./components/sheard/common/navbar/Navbar";
 import Footer from "./components/sheard/common/footer/Footer";
 import SEOProvider from "@/utils/SEOProvider";
 import Chat from "./components/ChatOpt/Chat";
-
-
+import Script from "next/script";
 
 const spaceGrotesk = Space_Grotesk({ subsets: ["latin"] });
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <Script
+        strategy="afterInteractive"
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+        data-ad-client="ca-pub-4626814401175279"
+        async
+        crossOrigin="anonymous"
+      />
       <body className={spaceGrotesk.className}>
         <SEOProvider />
         <AOSInit />
@@ -20,8 +26,8 @@ export default function RootLayout({ children }) {
           <Navbar />
           <main className="container mx-auto 2xl:px-20 xl:px-10 px-2 z-[10]">
             {children}
-            </main>
-           <Chat/>
+          </main>
+          <Chat />
           <Footer />
         </div>
       </body>
