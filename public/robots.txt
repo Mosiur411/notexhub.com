@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://www.notexthub.com
+Host: https://www.notexhub.com
 
 # Sitemaps
-Sitemap: https://www.notexthub.com/sitemap.xml
+Sitemap: https://www.notexhub.com/sitemap.xml
