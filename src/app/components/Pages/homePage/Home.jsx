@@ -1,3 +1,4 @@
+import AdBanner from "../../sheard/adsense/AdBanner";
 import WhyChooseUs from "../../WhyChooseUs/WhyChooseUs";
 import About from "../aboutPage/About";
 import Team from "../aboutPage/Team";
@@ -10,6 +11,7 @@ import HeroImg from "./HeroImg";
 export default function Home() {
   return (
     <div>
+      <AdBanner />
       <Hero />
       <HeroImg />
       <About />
